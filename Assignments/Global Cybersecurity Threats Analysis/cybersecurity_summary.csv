@@ -1,0 +1,12 @@
+Metric,Value
+Total Records,3000
+Total Financial Loss (M$),151478.91
+Total Affected Users,1514052409
+Average Loss per Incident (M$),50.49297
+Average Resolution Time (hrs),36.476
+Most Targeted Industry,IT
+Most Costly Attack Type,DDoS
+Most Common Vulnerability,Zero-day
+Most Effective Defense,Firewall
+Country with Most Attacks,UK
+Year with Highest Losses,2017
